@@ -6,10 +6,11 @@
    it will also show the dates at which the attendence was taken.And the app is also able 
    to store data of individul like attendence full details.**
    
-<h2>Function process</h1>
- *->In that platform teacher can open their own individual account with their different 
-  username and password. And they can add their student details which will be connected to 
-  the particular teacher so that any other teacher cannot open the data of student except his or her 
-  students.*
-   
+<h2>Function process</h2>
+
+*->In that platform teacher can open their own individual account with their different 
+username and password. And they can add their student details which will be connected to 
+the particular teacher so that any other teacher cannot open the data of student except his or her 
+students.*
+
    
