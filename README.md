@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+<h1>WRLCOME TO NABAJYOTI'S GITHUB PAGE</h1>
 
-You can use the [editor on GitHub](https://github.com/Nabajyotighosh/ATTENDENCE-MANAGER-FOR-TEACHER-USING-PYTHON/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nabajyotighosh/ATTENDENCE-MANAGER-FOR-TEACHER-USING-PYTHON/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**->This is a software or platform where multiple teacher can manage their lot of number 
+   of students. By this software there will be no need of pen paper and no one has ro be
+   calculate manually the attendence parcentage.The program will calculate by itself and
+   it will also show the dates at which the attendence was taken.And the app is also able 
+   to store data of individul like attendence full details.**
+   
+<h2>Function process</h1>
+ *->In that platform teacher can open their own individual account with their different 
+  username and password. And they can add their student details which will be connected to 
+  the particular teacher so that any other teacher cannot open the data of student except his or her 
+  students.*
+   
+   
